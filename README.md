@@ -1,3 +1,4 @@
 # NewsMonkey-react
-output.png
+![NewsMonkey Screenshot](/output.png)
+
 
